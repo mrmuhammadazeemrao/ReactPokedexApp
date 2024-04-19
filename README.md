@@ -7,20 +7,23 @@ This React application retrieves and displays a list of Pokémon from a given AP
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd pokemon-app
+git clone https://github.com/mrmuhammadazeemrao/ReactPokedexApp.git
+cd ReactPokedexApp
 ```
 
 ## Install Dependencies
 
-```npm install
+```bash
+npm install
 ```
 
 ## Start Application
 
-```npm run dev
+```bash
+npm run dev
 ```
 
 ## Run Test Cases
-```npm run jest
+```bash
+npm run test
 ```
