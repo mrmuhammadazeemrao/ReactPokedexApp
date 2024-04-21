@@ -2,6 +2,11 @@
 
 This React application retrieves and displays a list of Pokémon from a given API. Upon clicking on a Pokémon, it displays its details.
 
+## Prerequisites
+
+Node Version: 18.18.2
+
+
 ## How to Run
 
 1. Clone the repository:
